@@ -8,4 +8,7 @@ If you are practicing parrys, the  cpu will stop and try to jab straight afterwa
 
 If there are any issues with the script you can usually just reset training mode and then just wait for a few runs of the script.
 
+App is still in alpha so if you want to write something that is smaller than a 5 frame window, then it most likely wont be possible as of now.
+
 If you have any issues you can DM me on twitter or even better you can join joycon droids discord server ask questions here https://discord.gg/xsHHsh3
+
