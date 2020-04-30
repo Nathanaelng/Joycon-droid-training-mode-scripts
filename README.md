@@ -1,4 +1,4 @@
-# Landing-fh-aerial-scripts
+# JOYCON DROID TRAINING MODE SCRIPTS
 
 These are scripts for the Tas UI feature in Joycon droid that can be downloaded from the Play Store.
 
