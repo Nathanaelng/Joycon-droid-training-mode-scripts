@@ -14,6 +14,8 @@ Things to note when using the scripts.
 
 -If you are practicing parrys, the  cpu will stop and try to jab straight afterward usually.
 
+-You can use the 'holding shield' script so that the CPU will hold shield until it breaks. This allows it so that the CPU can buffer shield right after they get hit.
+
 -If there are any issues with the script you can usually just reset training mode and then just wait for a few runs of the script.
 
 -Included cloud side b to practice parrying on cause wifi cloud is something we all have to worry about during these dark times.
