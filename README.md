@@ -4,6 +4,8 @@ These are scripts for the Tas UI feature in Joycon droid that can be downloaded 
 
 Things to note when using the scripts.
 
+-Not every script is optimised as sometimes tje cpu will do something that isnt exactly intended to happen as I'm still trying to learning how to write these the best I can.
+
 -When using scripts to make the cpu DI they occasionally do no DI.
 
 -Landing aerials arent done close enough to the ground where they are the safest due to latency issues with the app.
