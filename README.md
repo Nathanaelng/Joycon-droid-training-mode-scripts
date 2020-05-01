@@ -22,9 +22,7 @@ App is still in alpha so if you want to write something that is smaller than a 5
 
 If you have any issues you can DM me on twitter or even better you can join joycon droids discord server ask questions here https://discord.gg/xsHHsh3
 
-
-
-
+________________________________________________________________________________________________________________________________________
 
 
 IF YOU WANT TO WRITE YOUR OWN
