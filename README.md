@@ -10,6 +10,8 @@ Things to note when using the scripts.
 
 -Landing aerials arent done close enough to the ground where they are the safest due to latency issues with the app.
 
+-Some characters fall too fast so the wont be able to read the attack input reliable before or after the fast fall input like wolf so I chose to just do regular FH wolf nairs instead. Once the app gets better I'll write one for FHFF Wolf Nair.
+
 -If you are practicing parrys, the  cpu will stop and try to jab straight afterward usually.
 
 -If there are any issues with the script you can usually just reset training mode and then just wait for a few runs of the script.
